@@ -1,0 +1,10 @@
+.login-form {
+  width: 20rem;
+  max-width: 90%;
+  margin: 50px auto 15px;
+  display: block;
+  padding: 30px;
+  border-radius: 5px;
+  background: linear-gradient(rgb(255,239,213,0.60),rgb(255,239,213,0.60));
+}
+
